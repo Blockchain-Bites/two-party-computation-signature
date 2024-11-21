@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 3-Paillier-Encryption/3-paillierAddHomomorphism.js
+// Test: $ node 3-Paillier-Encryption/4-testPaillierAddHomomorphism.js
+
 const { Paillier } = require("./1-paillierEncryption");
 
 class PaillierHomomorphism extends Paillier {
