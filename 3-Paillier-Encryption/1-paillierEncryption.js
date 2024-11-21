@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 3-Paillier-Encryption/1-paillierEncryption.js
+// test: node 3-Paillier-Encryption/2-testPaillierEncryption.js
+
 var crypto = require("crypto");
 
 class Paillier {

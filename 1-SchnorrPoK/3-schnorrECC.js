@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 1-SchnorrPoK/3-schnorrECC.js
+// Test: $ node 1-SchnorrPoK/4-testSchnorrECC.js
+
 var { ECC, Point } = require("../0-EllipticCurve/EllipticCurve");
 
 class SchnorrECC extends ECC {

@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 2-Diffie-Hellman/4-diffiHellmanECC.js
+// Test: $ node 2-Diffie-Hellman/5-testDiffiHellmanECC.js
+
 var { ECC, Point } = require("../0-EllipticCurve/EllipticCurve");
 
 class DiffieHellman extends ECC {

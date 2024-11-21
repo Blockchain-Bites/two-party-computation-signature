@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 1-SchnorrPoK/1-schnorr.js
+// Test: $ node 1-SchnorrPoK/2-testSchnorr.js
+
 class Schnorr {
   /**
    * Constructor to initialize Schnorr PoK class with generator g, prime modulus n, and group order q.

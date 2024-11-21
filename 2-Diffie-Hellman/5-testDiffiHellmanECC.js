@@ -1,4 +1,8 @@
-const { DiffieHellman, Point } = require("./3-diffiHellmanECC");
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 2-Diffie-Hellman/4-diffiHellmanECC.js
+// Test: $ node 2-Diffie-Hellman/5-testDiffiHellmanECC.js
+
+const { DiffieHellman, Point } = require("./4-diffiHellmanECC");
 
 /***********************************/
 /** EC DIFFIE-HELLMAN KEY EXCHANGE */

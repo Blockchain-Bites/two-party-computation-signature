@@ -1,3 +1,7 @@
+// https://github.com/Blockchain-Bites/two-party-computation-signature
+// File: 2-Diffie-Hellman/1-diffiHellman.js
+// Test: $ node 2-Diffie-Hellman/2-testDHPrimitiveRoot.js
+
 var crypto = require("crypto");
 
 class DiffieHellman {
