@@ -2,6 +2,7 @@
 
 ## Master Cryptographic Techniques Through This Developer-Focused Series
 
+![Cryptography Workshop Building a Myltiparty Signature System from Scratch](https://github.com/user-attachments/assets/84baa4e0-ecfc-4899-9927-b5f82446e38a)
 
 # Introduction
 
@@ -34,6 +35,10 @@ In the pursuit of being organized, I proposed the following order for the articl
 6. Two Parties, One Signature: The Future of Secure and Fast Signing - Step-by-Step Guide to Building Multiparty Signatures with Advanced Cryptography
 
 From those articles, (1), (2) and (3) are independent, while (4) and (5) require certain algorithms from the other ones. Pay attention to the top of each file where the `require` solicits algorithms from other files. Make sure to complete all dependencies first.
+
+# What is Blockchain Bites?
+
+Blockchain Bites is a school for Web3 Developers. It offers rigorous and comprehensive trainings in Cryptography, Solidity, Ethereum and Blockchain in general.
 
 # Approach
 
