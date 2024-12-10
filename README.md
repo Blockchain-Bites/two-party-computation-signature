@@ -26,7 +26,7 @@ In the pursuit of being organized, I proposed the following order for the articl
 
 2. [Prove What You Know, Without Revealing Anything - A Developer’s Guide to Understanding Schnorr Proof of Knowledge](https://medium.com/@lee.marreros/prove-what-you-know-without-revealing-anything-8fc77525f761)
 
-3. How Two Strangers Can Share a Secret in Public - How the Diffie-Hellman Key Exchange Works, Step by Step
+3. [How Two Strangers Can Share a Secret in Public - How the Diffie-Hellman Key Exchange Works, Step by Step](https://medium.com/@lee.marreros/how-two-strangers-can-share-a-secret-in-public-4a21651d9881)
 
 4. Mastering Encryption à la Paillier - Building Additive Homomorphic Encryption from Scratch
 
