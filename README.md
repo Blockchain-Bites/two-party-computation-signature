@@ -28,9 +28,9 @@ In the pursuit of being organized, I proposed the following order for the articl
 
 3. [How Two Strangers Can Share a Secret in Public - How the Diffie-Hellman Key Exchange Works, Step by Step](https://medium.com/@lee.marreros/how-two-strangers-can-share-a-secret-in-public-4a21651d9881)
 
-4. Mastering Encryption à la Paillier - Building Additive Homomorphic Encryption from Scratch
+4. [Mastering Encryption à la Paillier - Building Additive Homomorphic Encryption from Scratch](https://medium.com/blockchain-bites-es/mastering-encryption-a-la-paillier-98be7f877c43)
 
-5. Advanced Techniques in Cryptographic Protocols and Secure Multi-Party Computation
+5. [Three Core Concepts for Trustless Cryptography - Exploring Fiat-Shamir Heuristic, Non-Interactive ZK Proofs, and Distributed Signing for Creating Multi-Party Computation](https://medium.com/@lee.marreros/three-core-concepts-for-trustless-cryptography-56a042fa2ca4)
 
 6. Two Parties, One Signature: The Future of Secure and Fast Signing - Step-by-Step Guide to Building Multiparty Signatures with Advanced Cryptography
 
