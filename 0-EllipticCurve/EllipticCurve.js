@@ -205,4 +205,21 @@ class ECC {
   }
 }
 
-module.exports = { ECC, Point };
+// Helper method for achieving "multiple inheritance" in JS
+function combineInstancesInto(target, instances) {
+  instances.forEach((instance) => {
+    Object.assign(target, instance);
+    Object.getOwnPropertyNames(Object.getPrototypeOf(instance)).forEach(
+      (method) => {
+        if (
+          method !== "constructor" &&
+          typeof instance[method] === "function"
+        ) {
+          target[method] = instance[method].bind(instance);
+        }
+      }
+    );
+  });
+}
+
+module.exports = { ECC, Point, combineInstancesInto };
