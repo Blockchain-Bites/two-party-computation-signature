@@ -32,7 +32,7 @@ In the pursuit of being organized, I proposed the following order for the articl
 
 5. [Three Core Concepts for Trustless Cryptography - Exploring Fiat-Shamir Heuristic, Non-Interactive ZK Proofs, and Distributed Signing for Creating Multi-Party Computation](https://medium.com/@lee.marreros/three-core-concepts-for-trustless-cryptography-56a042fa2ca4)
 
-6. Two Parties, One Signature: The Future of Secure and Fast Signing - Step-by-Step Guide to Building Multiparty Signatures with Advanced Cryptography
+6. [Two Parties, One Signature: The Future of Secure and Fast Signing - Step-by-Step Guide to Building Multiparty Signatures with Advanced Cryptography](https://medium.com/blockchain-bites-es/two-parties-one-signature-the-future-of-secure-and-fast-signing-7dcb7d025b26)
 
 From those articles, (1), (2) and (3) are independent, while (4) and (5) require certain algorithms from the other ones. Pay attention to the top of each file where the `require` solicits algorithms from other files. Make sure to complete all dependencies first.
 
